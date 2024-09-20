@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="48">
+        <Style id="270">
+            <LineStyle id="271">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+        </Style>
+        <Placemark id="50">
+            <TimeStamp id="51">
+                <when>2024-09-20T01:17:58.839086Z</when>
+            </TimeStamp>
+            <Point id="49">
+                <coordinates>-121.125643,38.662463,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <TimeStamp id="54">
+                <when>2024-09-20T01:17:58.939086Z</when>
+            </TimeStamp>
+            <Point id="52">
+                <coordinates>-121.12156894821868,38.662463,348.6533905932738</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="56">
+            <TimeStamp id="57">
+                <when>2024-09-20T01:17:59.039086Z</when>
+            </TimeStamp>
+            <Point id="55">
+                <coordinates>-121.11749489643735,38.662463,687.5067811865475</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="59">
+            <TimeStamp id="60">
+                <when>2024-09-20T01:17:59.139086Z</when>
+            </TimeStamp>
+            <Point id="58">
+                <coordinates>-121.11342084465603,38.662463,1016.5601717798212</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="62">
+            <TimeStamp id="63">
+                <when>2024-09-20T01:17:59.239086Z</when>
+            </TimeStamp>
+            <Point id="61">
+                <coordinates>-121.10934679287472,38.662463,1335.813562373095</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="65">
+            <TimeStamp id="66">
+                <when>2024-09-20T01:17:59.339086Z</when>
+            </TimeStamp>
+            <Point id="64">
+                <coordinates>-121.10527274109339,38.662463,1645.266952966369</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="68">
+            <TimeStamp id="69">
+                <when>2024-09-20T01:17:59.439086Z</when>
+            </TimeStamp>
+            <Point id="67">
+                <coordinates>-121.10119868931207,38.662463,1944.9203435596423</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="71">
+            <TimeStamp id="72">
+                <when>2024-09-20T01:17:59.539086Z</when>
+            </TimeStamp>
+            <Point id="70">
+                <coordinates>-121.09712463753075,38.662463,2234.7737341529164</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="74">
+            <TimeStamp id="75">
+                <when>2024-09-20T01:17:59.639086Z</when>
+            </TimeStamp>
+            <Point id="73">
+                <coordinates>-121.09305058574942,38.662463,2514.8271247461903</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="77">
+            <TimeStamp id="78">
+                <when>2024-09-20T01:17:59.739086Z</when>
+            </TimeStamp>
+            <Point id="76">
+                <coordinates>-121.08897653396811,38.662463,2785.080515339464</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="80">
+            <TimeStamp id="81">
+                <when>2024-09-20T01:17:59.839086Z</when>
+            </TimeStamp>
+            <Point id="79">
+                <coordinates>-121.08490248218679,38.662463,3045.533905932738</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <TimeStamp id="84">
+                <when>2024-09-20T01:17:59.939086Z</when>
+            </TimeStamp>
+            <Point id="82">
+                <coordinates>-121.08082843040546,38.662463,3296.1872965260113</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="86">
+            <TimeStamp id="87">
+                <when>2024-09-20T01:18:00.039086Z</when>
+            </TimeStamp>
+            <Point id="85">
+                <coordinates>-121.07675437862414,38.662463,3537.040687119285</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="89">
+            <TimeStamp id="90">
+                <when>2024-09-20T01:18:00.139086Z</when>
+            </TimeStamp>
+            <Point id="88">
+                <coordinates>-121.07268032684283,38.662463,3768.0940777125593</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="92">
+            <TimeStamp id="93">
+                <when>2024-09-20T01:18:00.239086Z</when>
+            </TimeStamp>
+            <Point id="91">
+                <coordinates>-121.0686062750615,38.662463,3989.3474683058325</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="95">
+            <TimeStamp id="96">
+                <when>2024-09-20T01:18:00.339086Z</when>
+            </TimeStamp>
+            <Point id="94">
+                <coordinates>-121.06453222328018,38.662463,4200.800858899107</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="98">
+            <TimeStamp id="99">
+                <when>2024-09-20T01:18:00.439086Z</when>
+            </TimeStamp>
+            <Point id="97">
+                <coordinates>-121.06045817149885,38.662463,4402.454249492381</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="101">
+            <TimeStamp id="102">
+                <when>2024-09-20T01:18:00.539086Z</when>
+            </TimeStamp>
+            <Point id="100">
+                <coordinates>-121.05638411971753,38.662463,4594.3076400856535</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="104">
+            <TimeStamp id="105">
+                <when>2024-09-20T01:18:00.639086Z</when>
+            </TimeStamp>
+            <Point id="103">
+                <coordinates>-121.05231006793622,38.662463,4776.361030678928</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="107">
+            <TimeStamp id="108">
+                <when>2024-09-20T01:18:00.739086Z</when>
+            </TimeStamp>
+            <Point id="106">
+                <coordinates>-121.04823601615489,38.662463,4948.614421272201</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="110">
+            <TimeStamp id="111">
+                <when>2024-09-20T01:18:00.839086Z</when>
+            </TimeStamp>
+            <Point id="109">
+                <coordinates>-121.04416196437357,38.662463,5111.067811865476</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="113">
+            <TimeStamp id="114">
+                <when>2024-09-20T01:18:00.939086Z</when>
+            </TimeStamp>
+            <Point id="112">
+                <coordinates>-121.04008791259226,38.662463,5263.72120245875</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="116">
+            <TimeStamp id="117">
+                <when>2024-09-20T01:18:01.039086Z</when>
+            </TimeStamp>
+            <Point id="115">
+                <coordinates>-121.03601386081093,38.662463,5406.5745930520225</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="119">
+            <TimeStamp id="120">
+                <when>2024-09-20T01:18:01.139086Z</when>
+            </TimeStamp>
+            <Point id="118">
+                <coordinates>-121.03193980902961,38.662463,5539.627983645297</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="122">
+            <TimeStamp id="123">
+                <when>2024-09-20T01:18:01.239086Z</when>
+            </TimeStamp>
+            <Point id="121">
+                <coordinates>-121.02786575724829,38.662463,5662.88137423857</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="125">
+            <TimeStamp id="126">
+                <when>2024-09-20T01:18:01.339086Z</when>
+            </TimeStamp>
+            <Point id="124">
+                <coordinates>-121.02379170546696,38.662463,5776.334764831845</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="128">
+            <TimeStamp id="129">
+                <when>2024-09-20T01:18:01.439086Z</when>
+            </TimeStamp>
+            <Point id="127">
+                <coordinates>-121.01971765368565,38.662463,5879.988155425119</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="131">
+            <TimeStamp id="132">
+                <when>2024-09-20T01:18:01.539086Z</when>
+            </TimeStamp>
+            <Point id="130">
+                <coordinates>-121.01564360190433,38.662463,5973.841546018391</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="134">
+            <TimeStamp id="135">
+                <when>2024-09-20T01:18:01.639086Z</when>
+            </TimeStamp>
+            <Point id="133">
+                <coordinates>-121.011569550123,38.662463,6057.894936611665</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="137">
+            <TimeStamp id="138">
+                <when>2024-09-20T01:18:01.739086Z</when>
+            </TimeStamp>
+            <Point id="136">
+                <coordinates>-121.00749549834168,38.662463,6132.148327204938</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="140">
+            <TimeStamp id="141">
+                <when>2024-09-20T01:18:01.839086Z</when>
+            </TimeStamp>
+            <Point id="139">
+                <coordinates>-121.00342144656037,38.662463,6196.601717798214</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="143">
+            <TimeStamp id="144">
+                <when>2024-09-20T01:18:01.939086Z</when>
+            </TimeStamp>
+            <Point id="142">
+                <coordinates>-120.99934739477904,38.662463,6251.255108391487</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="146">
+            <TimeStamp id="147">
+                <when>2024-09-20T01:18:02.039086Z</when>
+            </TimeStamp>
+            <Point id="145">
+                <coordinates>-120.99527334299772,38.662463,6296.10849898476</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="149">
+            <TimeStamp id="150">
+                <when>2024-09-20T01:18:02.139086Z</when>
+            </TimeStamp>
+            <Point id="148">
+                <coordinates>-120.9911992912164,38.662463,6331.161889578034</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="152">
+            <TimeStamp id="153">
+                <when>2024-09-20T01:18:02.239086Z</when>
+            </TimeStamp>
+            <Point id="151">
+                <coordinates>-120.98712523943507,38.662463,6356.415280171307</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="155">
+            <TimeStamp id="156">
+                <when>2024-09-20T01:18:02.339086Z</when>
+            </TimeStamp>
+            <Point id="154">
+                <coordinates>-120.98305118765376,38.662463,6371.868670764583</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="158">
+            <TimeStamp id="159">
+                <when>2024-09-20T01:18:02.439086Z</when>
+            </TimeStamp>
+            <Point id="157">
+                <coordinates>-120.97897713587244,38.662463,6377.522061357856</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="161">
+            <TimeStamp id="162">
+                <when>2024-09-20T01:18:02.539086Z</when>
+            </TimeStamp>
+            <Point id="160">
+                <coordinates>-120.97490308409111,38.662463,6373.375451951129</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="164">
+            <TimeStamp id="165">
+                <when>2024-09-20T01:18:02.639086Z</when>
+            </TimeStamp>
+            <Point id="163">
+                <coordinates>-120.9708290323098,38.662463,6359.428842544403</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="167">
+            <TimeStamp id="168">
+                <when>2024-09-20T01:18:02.739086Z</when>
+            </TimeStamp>
+            <Point id="166">
+                <coordinates>-120.96675498052848,38.662463,6335.682233137676</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="170">
+            <TimeStamp id="171">
+                <when>2024-09-20T01:18:02.839086Z</when>
+            </TimeStamp>
+            <Point id="169">
+                <coordinates>-120.96268092874715,38.662463,6302.135623730951</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="173">
+            <TimeStamp id="174">
+                <when>2024-09-20T01:18:02.939086Z</when>
+            </TimeStamp>
+            <Point id="172">
+                <coordinates>-120.95860687696583,38.662463,6258.789014324224</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="176">
+            <TimeStamp id="177">
+                <when>2024-09-20T01:18:03.039086Z</when>
+            </TimeStamp>
+            <Point id="175">
+                <coordinates>-120.9545328251845,38.662463,6205.642404917498</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="179">
+            <TimeStamp id="180">
+                <when>2024-09-20T01:18:03.139086Z</when>
+            </TimeStamp>
+            <Point id="178">
+                <coordinates>-120.95045877340318,38.662463,6142.695795510772</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="182">
+            <TimeStamp id="183">
+                <when>2024-09-20T01:18:03.239086Z</when>
+            </TimeStamp>
+            <Point id="181">
+                <coordinates>-120.94638472162187,38.662463,6069.949186104044</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="185">
+            <TimeStamp id="186">
+                <when>2024-09-20T01:18:03.339086Z</when>
+            </TimeStamp>
+            <Point id="184">
+                <coordinates>-120.94231066984054,38.662463,5987.402576697319</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="188">
+            <TimeStamp id="189">
+                <when>2024-09-20T01:18:03.439086Z</when>
+            </TimeStamp>
+            <Point id="187">
+                <coordinates>-120.93823661805922,38.662463,5895.055967290593</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="191">
+            <TimeStamp id="192">
+                <when>2024-09-20T01:18:03.539086Z</when>
+            </TimeStamp>
+            <Point id="190">
+                <coordinates>-120.9341625662779,38.662463,5792.909357883867</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="194">
+            <TimeStamp id="195">
+                <when>2024-09-20T01:18:03.639086Z</when>
+            </TimeStamp>
+            <Point id="193">
+                <coordinates>-120.93008851449657,38.662463,5680.962748477139</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="197">
+            <TimeStamp id="198">
+                <when>2024-09-20T01:18:03.739086Z</when>
+            </TimeStamp>
+            <Point id="196">
+                <coordinates>-120.92601446271526,38.662463,5559.216139070413</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="200">
+            <TimeStamp id="201">
+                <when>2024-09-20T01:18:03.839086Z</when>
+            </TimeStamp>
+            <Point id="199">
+                <coordinates>-120.92194041093394,38.662463,5427.66952966369</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="203">
+            <TimeStamp id="204">
+                <when>2024-09-20T01:18:03.939086Z</when>
+            </TimeStamp>
+            <Point id="202">
+                <coordinates>-120.91786635915261,38.662463,5286.32292025696</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="206">
+            <TimeStamp id="207">
+                <when>2024-09-20T01:18:04.039086Z</when>
+            </TimeStamp>
+            <Point id="205">
+                <coordinates>-120.9137923073713,38.662463,5135.176310850236</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="209">
+            <TimeStamp id="210">
+                <when>2024-09-20T01:18:04.139086Z</when>
+            </TimeStamp>
+            <Point id="208">
+                <coordinates>-120.90971825558998,38.662463,4974.229701443508</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="212">
+            <TimeStamp id="213">
+                <when>2024-09-20T01:18:04.239086Z</when>
+            </TimeStamp>
+            <Point id="211">
+                <coordinates>-120.90564420380865,38.662463,4803.483092036782</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="215">
+            <TimeStamp id="216">
+                <when>2024-09-20T01:18:04.339086Z</when>
+            </TimeStamp>
+            <Point id="214">
+                <coordinates>-120.90157015202733,38.662463,4622.936482630057</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="218">
+            <TimeStamp id="219">
+                <when>2024-09-20T01:18:04.439086Z</when>
+            </TimeStamp>
+            <Point id="217">
+                <coordinates>-120.89749610024602,38.662463,4432.589873223329</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="221">
+            <TimeStamp id="222">
+                <when>2024-09-20T01:18:04.539086Z</when>
+            </TimeStamp>
+            <Point id="220">
+                <coordinates>-120.89342204846469,38.662463,4232.443263816605</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="224">
+            <TimeStamp id="225">
+                <when>2024-09-20T01:18:04.639086Z</when>
+            </TimeStamp>
+            <Point id="223">
+                <coordinates>-120.88934799668337,38.662463,4022.496654409875</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="227">
+            <TimeStamp id="228">
+                <when>2024-09-20T01:18:04.739086Z</when>
+            </TimeStamp>
+            <Point id="226">
+                <coordinates>-120.88527394490205,38.662463,3802.750045003151</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="230">
+            <TimeStamp id="231">
+                <when>2024-09-20T01:18:04.839086Z</when>
+            </TimeStamp>
+            <Point id="229">
+                <coordinates>-120.88119989312072,38.662463,3573.203435596428</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="233">
+            <TimeStamp id="234">
+                <when>2024-09-20T01:18:04.939086Z</when>
+            </TimeStamp>
+            <Point id="232">
+                <coordinates>-120.8771258413394,38.662463,3333.856826189698</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="236">
+            <TimeStamp id="237">
+                <when>2024-09-20T01:18:05.039086Z</when>
+            </TimeStamp>
+            <Point id="235">
+                <coordinates>-120.87305178955809,38.662463,3084.7102167829726</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="239">
+            <TimeStamp id="240">
+                <when>2024-09-20T01:18:05.139086Z</when>
+            </TimeStamp>
+            <Point id="238">
+                <coordinates>-120.86897773777676,38.662463,2825.763607376244</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="242">
+            <TimeStamp id="243">
+                <when>2024-09-20T01:18:05.239086Z</when>
+            </TimeStamp>
+            <Point id="241">
+                <coordinates>-120.86490368599544,38.662463,2557.01699796952</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="245">
+            <TimeStamp id="246">
+                <when>2024-09-20T01:18:05.339086Z</when>
+            </TimeStamp>
+            <Point id="244">
+                <coordinates>-120.86082963421413,38.662463,2278.470388562797</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="248">
+            <TimeStamp id="249">
+                <when>2024-09-20T01:18:05.439086Z</when>
+            </TimeStamp>
+            <Point id="247">
+                <coordinates>-120.8567555824328,38.662463,1990.123779156067</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="251">
+            <TimeStamp id="252">
+                <when>2024-09-20T01:18:05.539086Z</when>
+            </TimeStamp>
+            <Point id="250">
+                <coordinates>-120.85268153065148,38.662463,1691.9771697493416</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="254">
+            <TimeStamp id="255">
+                <when>2024-09-20T01:18:05.639086Z</when>
+            </TimeStamp>
+            <Point id="253">
+                <coordinates>-120.84860747887015,38.662463,1384.0305603426132</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="257">
+            <TimeStamp id="258">
+                <when>2024-09-20T01:18:05.739086Z</when>
+            </TimeStamp>
+            <Point id="256">
+                <coordinates>-120.84453342708883,38.662463,1066.2839509358892</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="260">
+            <TimeStamp id="261">
+                <when>2024-09-20T01:18:05.839086Z</when>
+            </TimeStamp>
+            <Point id="259">
+                <coordinates>-120.84045937530752,38.662463,738.7373415291659</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="263">
+            <TimeStamp id="264">
+                <when>2024-09-20T01:18:05.939086Z</when>
+            </TimeStamp>
+            <Point id="262">
+                <coordinates>-120.83638532352619,38.662463,401.390732122436</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="266">
+            <TimeStamp id="267">
+                <when>2024-09-20T01:18:06.039086Z</when>
+            </TimeStamp>
+            <Point id="265">
+                <coordinates>-120.83231127174487,38.662463,54.244122715710546</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="269">
+            <name>projectile_motion</name>
+            <TimeSpan id="272">
+                <begin>2024-09-20T01:17:58.839086Z</begin>
+                <end>2024-09-20T01:18:08.839086Z</end>
+            </TimeSpan>
+            <styleUrl>#270</styleUrl>
+            <LineString id="268">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-121.125643,38.662463,0.0 -121.12156894821868,38.662463,348.6533905932738 -121.11749489643735,38.662463,687.5067811865475 -121.11342084465603,38.662463,1016.5601717798212 -121.10934679287472,38.662463,1335.813562373095 -121.10527274109339,38.662463,1645.266952966369 -121.10119868931207,38.662463,1944.9203435596423 -121.09712463753075,38.662463,2234.7737341529164 -121.09305058574942,38.662463,2514.8271247461903 -121.08897653396811,38.662463,2785.080515339464 -121.08490248218679,38.662463,3045.533905932738 -121.08082843040546,38.662463,3296.1872965260113 -121.07675437862414,38.662463,3537.040687119285 -121.07268032684283,38.662463,3768.0940777125593 -121.0686062750615,38.662463,3989.3474683058325 -121.06453222328018,38.662463,4200.800858899107 -121.06045817149885,38.662463,4402.454249492381 -121.05638411971753,38.662463,4594.3076400856535 -121.05231006793622,38.662463,4776.361030678928 -121.04823601615489,38.662463,4948.614421272201 -121.04416196437357,38.662463,5111.067811865476 -121.04008791259226,38.662463,5263.72120245875 -121.03601386081093,38.662463,5406.5745930520225 -121.03193980902961,38.662463,5539.627983645297 -121.02786575724829,38.662463,5662.88137423857 -121.02379170546696,38.662463,5776.334764831845 -121.01971765368565,38.662463,5879.988155425119 -121.01564360190433,38.662463,5973.841546018391 -121.011569550123,38.662463,6057.894936611665 -121.00749549834168,38.662463,6132.148327204938 -121.00342144656037,38.662463,6196.601717798214 -120.99934739477904,38.662463,6251.255108391487 -120.99527334299772,38.662463,6296.10849898476 -120.9911992912164,38.662463,6331.161889578034 -120.98712523943507,38.662463,6356.415280171307 -120.98305118765376,38.662463,6371.868670764583 -120.97897713587244,38.662463,6377.522061357856 -120.97490308409111,38.662463,6373.375451951129 -120.9708290323098,38.662463,6359.428842544403 -120.96675498052848,38.662463,6335.682233137676 -120.96268092874715,38.662463,6302.135623730951 -120.95860687696583,38.662463,6258.789014324224 -120.9545328251845,38.662463,6205.642404917498 -120.95045877340318,38.662463,6142.695795510772 -120.94638472162187,38.662463,6069.949186104044 -120.94231066984054,38.662463,5987.402576697319 -120.93823661805922,38.662463,5895.055967290593 -120.9341625662779,38.662463,5792.909357883867 -120.93008851449657,38.662463,5680.962748477139 -120.92601446271526,38.662463,5559.216139070413 -120.92194041093394,38.662463,5427.66952966369 -120.91786635915261,38.662463,5286.32292025696 -120.9137923073713,38.662463,5135.176310850236 -120.90971825558998,38.662463,4974.229701443508 -120.90564420380865,38.662463,4803.483092036782 -120.90157015202733,38.662463,4622.936482630057 -120.89749610024602,38.662463,4432.589873223329 -120.89342204846469,38.662463,4232.443263816605 -120.88934799668337,38.662463,4022.496654409875 -120.88527394490205,38.662463,3802.750045003151 -120.88119989312072,38.662463,3573.203435596428 -120.8771258413394,38.662463,3333.856826189698 -120.87305178955809,38.662463,3084.7102167829726 -120.86897773777676,38.662463,2825.763607376244 -120.86490368599544,38.662463,2557.01699796952 -120.86082963421413,38.662463,2278.470388562797 -120.8567555824328,38.662463,1990.123779156067 -120.85268153065148,38.662463,1691.9771697493416 -120.84860747887015,38.662463,1384.0305603426132 -120.84453342708883,38.662463,1066.2839509358892 -120.84045937530752,38.662463,738.7373415291659 -120.83638532352619,38.662463,401.390732122436 -120.83231127174487,38.662463,54.244122715710546</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

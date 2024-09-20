@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="11">
+        <Style id="14">
+            <IconStyle id="16">
+                <colorMode>normal</colorMode>
+                <scale>0.5</scale>
+                <heading>0</heading>
+                <Icon id="17">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="15">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="21">
+            <IconStyle id="23">
+                <colorMode>normal</colorMode>
+                <scale>0.5</scale>
+                <heading>0</heading>
+                <Icon id="24">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="22">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="28">
+            <IconStyle id="30">
+                <colorMode>normal</colorMode>
+                <scale>0.5</scale>
+                <heading>0</heading>
+                <Icon id="31">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="29">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="35">
+            <IconStyle id="37">
+                <colorMode>normal</colorMode>
+                <scale>0.5</scale>
+                <heading>0</heading>
+                <Icon id="38">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="36">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="42">
+            <IconStyle id="44">
+                <colorMode>normal</colorMode>
+                <scale>0.5</scale>
+                <heading>0</heading>
+                <Icon id="45">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="43">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="13">
+            <name>h: 100.00m</name>
+            <TimeStamp id="18">
+                <when>2024-09-20T01:17:58.839086Z</when>
+            </TimeStamp>
+            <styleUrl>#14</styleUrl>
+            <Point id="12">
+                <coordinates>-121.125643,38.662463,100.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="20">
+            <name>h: 95.10m</name>
+            <TimeStamp id="25">
+                <when>2024-09-20T01:17:59.839086Z</when>
+            </TimeStamp>
+            <styleUrl>#21</styleUrl>
+            <Point id="19">
+                <coordinates>-121.125643,38.662463,95.1</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>h: 80.40m</name>
+            <TimeStamp id="32">
+                <when>2024-09-20T01:18:00.839086Z</when>
+            </TimeStamp>
+            <styleUrl>#28</styleUrl>
+            <Point id="26">
+                <coordinates>-121.125643,38.662463,80.4</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="34">
+            <name>h: 55.90m</name>
+            <TimeStamp id="39">
+                <when>2024-09-20T01:18:01.839086Z</when>
+            </TimeStamp>
+            <styleUrl>#35</styleUrl>
+            <Point id="33">
+                <coordinates>-121.125643,38.662463,55.9</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="41">
+            <name>h: 21.60m</name>
+            <TimeStamp id="46">
+                <when>2024-09-20T01:18:02.839086Z</when>
+            </TimeStamp>
+            <styleUrl>#42</styleUrl>
+            <Point id="40">
+                <coordinates>-121.125643,38.662463,21.599999999999994</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

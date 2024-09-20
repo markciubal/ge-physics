@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="274">
+        <Style id="277">
+            <IconStyle id="279">
+                <colorMode>normal</colorMode>
+                <scale>0.5</scale>
+                <heading>0</heading>
+                <Icon id="280">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="278">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="284">
+            <IconStyle id="286">
+                <colorMode>normal</colorMode>
+                <scale>0.5</scale>
+                <heading>0</heading>
+                <Icon id="287">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="285">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="291">
+            <IconStyle id="293">
+                <colorMode>normal</colorMode>
+                <scale>0.5</scale>
+                <heading>0</heading>
+                <Icon id="294">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="292">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="298">
+            <IconStyle id="300">
+                <colorMode>normal</colorMode>
+                <scale>0.5</scale>
+                <heading>0</heading>
+                <Icon id="301">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="299">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="305">
+            <IconStyle id="307">
+                <colorMode>normal</colorMode>
+                <scale>0.5</scale>
+                <heading>0</heading>
+                <Icon id="308">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="306">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="276">
+            <name>Vector 1</name>
+            <TimeSpan id="281">
+                <begin>2024-09-20T01:17:58.839086Z</begin>
+                <end>2024-09-20T01:18:08.839086Z</end>
+            </TimeSpan>
+            <styleUrl>#277</styleUrl>
+            <LineString id="275">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-121.125643,38.662463,0 -121.12635083149996,38.66249933683041,44.013210072696296</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="283">
+            <name>Vector 2</name>
+            <TimeSpan id="288">
+                <begin>2024-09-20T01:17:58.839086Z</begin>
+                <end>2024-09-20T01:18:08.839086Z</end>
+            </TimeSpan>
+            <styleUrl>#284</styleUrl>
+            <LineString id="282">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-121.12635083149996,38.66249933683041,44.013210072696296 -121.12523215616912,38.66312118440793,62.66993707116251</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="290">
+            <name>Vector 3</name>
+            <TimeSpan id="295">
+                <begin>2024-09-20T01:17:58.839086Z</begin>
+                <end>2024-09-20T01:18:08.839086Z</end>
+            </TimeSpan>
+            <styleUrl>#291</styleUrl>
+            <LineString id="289">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-121.12523215616912,38.66312118440793,62.66993707116251 -121.12632872007342,38.662594807502856,80.60190922111778</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="297">
+            <name>Vector 4</name>
+            <TimeSpan id="302">
+                <begin>2024-09-20T01:17:58.839086Z</begin>
+                <end>2024-09-20T01:18:08.839086Z</end>
+            </TimeSpan>
+            <styleUrl>#298</styleUrl>
+            <LineString id="296">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-121.12632872007342,38.662594807502856,80.60190922111778 -121.1274174384871,38.661771755067186,102.42279693213102</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="304">
+            <name>Vector 5</name>
+            <TimeSpan id="309">
+                <begin>2024-09-20T01:17:58.839086Z</begin>
+                <end>2024-09-20T01:18:08.839086Z</end>
+            </TimeSpan>
+            <styleUrl>#305</styleUrl>
+            <LineString id="303">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-121.1274174384871,38.661771755067186,102.42279693213102 -121.12720258429526,38.661159452032834,138.9580433738457</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

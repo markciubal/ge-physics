@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="548944">
+        <Placemark id="548946">
+            <name>Group 8</name>
+            <TimeSpan id="548947">
+                <begin>2024-04-15T05:47:28Z</begin>
+                <end>2024-04-15T05:47:38Z</end>
+            </TimeSpan>
+            <Point id="548945">
+                <coordinates>38.66226127273164,-121.1262282178109,10</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

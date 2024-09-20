@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="7868">
+        <Style id="7871">
+            <IconStyle id="7873">
+                <colorMode>normal</colorMode>
+                <scale>0.5</scale>
+                <heading>0</heading>
+                <Icon id="7874">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="7872">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="7877">
+            <IconStyle id="7879">
+                <colorMode>normal</colorMode>
+                <scale>0.5</scale>
+                <heading>0</heading>
+                <Icon id="7880">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="7878">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="7883">
+            <IconStyle id="7885">
+                <colorMode>normal</colorMode>
+                <scale>0.5</scale>
+                <heading>0</heading>
+                <Icon id="7886">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="7884">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="7889">
+            <IconStyle id="7891">
+                <colorMode>normal</colorMode>
+                <scale>0.5</scale>
+                <heading>0</heading>
+                <Icon id="7892">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="7890">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="7895">
+            <IconStyle id="7897">
+                <colorMode>normal</colorMode>
+                <scale>0.5</scale>
+                <heading>0</heading>
+                <Icon id="7898">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="7896">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="7901">
+            <IconStyle id="7903">
+                <colorMode>normal</colorMode>
+                <scale>0.5</scale>
+                <heading>0</heading>
+                <Icon id="7904">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="7902">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="7907">
+            <IconStyle id="7909">
+                <colorMode>normal</colorMode>
+                <scale>0.5</scale>
+                <heading>0</heading>
+                <Icon id="7910">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="7908">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="7913">
+            <IconStyle id="7915">
+                <colorMode>normal</colorMode>
+                <scale>0.5</scale>
+                <heading>0</heading>
+                <Icon id="7916">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="7914">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="7919">
+            <IconStyle id="7921">
+                <colorMode>normal</colorMode>
+                <scale>0.5</scale>
+                <heading>0</heading>
+                <Icon id="7922">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="7920">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="7925">
+            <IconStyle id="7927">
+                <colorMode>normal</colorMode>
+                <scale>0.5</scale>
+                <heading>0</heading>
+                <Icon id="7928">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="7926">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="7931">
+            <IconStyle id="7933">
+                <colorMode>normal</colorMode>
+                <scale>0.5</scale>
+                <heading>0</heading>
+                <Icon id="7934">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="7932">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="7937">
+            <IconStyle id="7939">
+                <colorMode>normal</colorMode>
+                <scale>0.5</scale>
+                <heading>0</heading>
+                <Icon id="7940">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="7938">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="7943">
+            <IconStyle id="7945">
+                <colorMode>normal</colorMode>
+                <scale>0.5</scale>
+                <heading>0</heading>
+                <Icon id="7946">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="7944">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="7949">
+            <IconStyle id="7951">
+                <colorMode>normal</colorMode>
+                <scale>0.5</scale>
+                <heading>0</heading>
+                <Icon id="7952">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="7950">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="7955">
+            <IconStyle id="7957">
+                <colorMode>normal</colorMode>
+                <scale>0.5</scale>
+                <heading>0</heading>
+                <Icon id="7958">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="7956">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="7870">
+            <name>Vector 1</name>
+            <styleUrl>#7871</styleUrl>
+            <LineString id="7869">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-121.125643,38.662463,0 -121.125643,38.662463,25</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="7876">
+            <name>Vector 2</name>
+            <styleUrl>#7877</styleUrl>
+            <LineString id="7875">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-121.125643,38.662463,25 -121.12663399163667,38.662463,5</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="7882">
+            <name>Vector 3</name>
+            <styleUrl>#7883</styleUrl>
+            <LineString id="7881">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-121.12663399163667,38.662463,5 -121.12663399163667,38.662463,93</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="7888">
+            <name>Vector 4</name>
+            <styleUrl>#7889</styleUrl>
+            <LineString id="7887">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-121.12663399163667,38.662463,93 -121.12663399163667,38.66182416034876,12</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="7894">
+            <name>Vector 5</name>
+            <styleUrl>#7895</styleUrl>
+            <LineString id="7893">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-121.12663399163667,38.66182416034876,12 -121.12742908248497,38.661806164865624,22</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="7900">
+            <name>Vector 6</name>
+            <styleUrl>#7901</styleUrl>
+            <LineString id="7899">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-121.12742908248497,38.661806164865624,22 -121.12742908248497,38.661806164865624,93</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="7906">
+            <name>Vector 7</name>
+            <styleUrl>#7907</styleUrl>
+            <LineString id="7905">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-121.12742908248497,38.661806164865624,93 -121.12742908248497,38.66111333876498,24</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="7912">
+            <name>Vector 8</name>
+            <styleUrl>#7913</styleUrl>
+            <LineString id="7911">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-121.12742908248497,38.66111333876498,24 -121.12742908248497,38.66090639070894,79</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="7918">
+            <name>Vector 9</name>
+            <styleUrl>#7919</styleUrl>
+            <LineString id="7917">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-121.12742908248497,38.66090639070894,79 -121.12742908248497,38.66090639070894,39</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="7924">
+            <name>Vector 10</name>
+            <styleUrl>#7925</styleUrl>
+            <LineString id="7923">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-121.12742908248497,38.66090639070894,39 -121.12742908248497,38.66090639070894,59</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="7930">
+            <name>Vector 11</name>
+            <styleUrl>#7931</styleUrl>
+            <LineString id="7929">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-121.12742908248497,38.66090639070894,59 -121.12742908248497,38.66090639070894,66</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="7936">
+            <name>Vector 12</name>
+            <styleUrl>#7937</styleUrl>
+            <LineString id="7935">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-121.12742908248497,38.66090639070894,66 -121.12851223584667,38.66090639070894,67</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="7942">
+            <name>Vector 13</name>
+            <styleUrl>#7943</styleUrl>
+            <LineString id="7941">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-121.12851223584667,38.66090639070894,67 -121.12919208742477,38.66090639070894,78</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="7948">
+            <name>Vector 14</name>
+            <styleUrl>#7949</styleUrl>
+            <LineString id="7947">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-121.12919208742477,38.66090639070894,78 -121.12919208742477,38.66042951040589,85</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="7954">
+            <name>Vector 15</name>
+            <styleUrl>#7955</styleUrl>
+            <LineString id="7953">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-121.12919208742477,38.66042951040589,85 -121.1298949801387,38.66042951040589,10</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

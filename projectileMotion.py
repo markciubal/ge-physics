@@ -223,10 +223,10 @@ def main():
         lat=start_lat,
         lon=start_lon,
         h0=0,
-        v0=500,  # Initial speed in m/s
+        v0=100,  # Initial speed in m/s
         elevation_angle_deg=45,  # Elevation angle
         azimuth_angle_deg=90,  # Azimuth angle (east)
-        duration=100,
+        duration=110,
         intervals=100,
         name="projectile_motion",
         start_time=start_time,

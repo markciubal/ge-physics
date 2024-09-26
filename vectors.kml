@@ -1,134 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="274">
-        <Style id="277">
-            <IconStyle id="279">
+    <Document id="97">
+        <Style id="100">
+            <IconStyle id="102">
                 <colorMode>normal</colorMode>
                 <scale>0.5</scale>
                 <heading>0</heading>
-                <Icon id="280">
+                <Icon id="103">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="278">
+            <LabelStyle id="101">
                 <colorMode>normal</colorMode>
                 <scale>0.6</scale>
             </LabelStyle>
         </Style>
-        <Style id="284">
-            <IconStyle id="286">
+        <Style id="107">
+            <IconStyle id="109">
                 <colorMode>normal</colorMode>
                 <scale>0.5</scale>
                 <heading>0</heading>
-                <Icon id="287">
+                <Icon id="110">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="285">
+            <LabelStyle id="108">
                 <colorMode>normal</colorMode>
                 <scale>0.6</scale>
             </LabelStyle>
         </Style>
-        <Style id="291">
-            <IconStyle id="293">
+        <Style id="114">
+            <IconStyle id="116">
                 <colorMode>normal</colorMode>
                 <scale>0.5</scale>
                 <heading>0</heading>
-                <Icon id="294">
+                <Icon id="117">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="292">
+            <LabelStyle id="115">
                 <colorMode>normal</colorMode>
                 <scale>0.6</scale>
             </LabelStyle>
         </Style>
-        <Style id="298">
-            <IconStyle id="300">
+        <Style id="121">
+            <IconStyle id="123">
                 <colorMode>normal</colorMode>
                 <scale>0.5</scale>
                 <heading>0</heading>
-                <Icon id="301">
+                <Icon id="124">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="299">
+            <LabelStyle id="122">
                 <colorMode>normal</colorMode>
                 <scale>0.6</scale>
             </LabelStyle>
         </Style>
-        <Style id="305">
-            <IconStyle id="307">
+        <Style id="128">
+            <IconStyle id="130">
                 <colorMode>normal</colorMode>
                 <scale>0.5</scale>
                 <heading>0</heading>
-                <Icon id="308">
+                <Icon id="131">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="306">
+            <LabelStyle id="129">
                 <colorMode>normal</colorMode>
                 <scale>0.6</scale>
             </LabelStyle>
         </Style>
-        <Placemark id="276">
+        <Placemark id="99">
             <name>Vector 1</name>
-            <TimeSpan id="281">
-                <begin>2024-09-20T01:17:58.839086Z</begin>
-                <end>2024-09-20T01:18:08.839086Z</end>
+            <TimeSpan id="104">
+                <begin>2024-09-24T03:36:13.987493Z</begin>
+                <end>2024-09-24T03:36:23.987493Z</end>
             </TimeSpan>
-            <styleUrl>#277</styleUrl>
-            <LineString id="275">
+            <styleUrl>#100</styleUrl>
+            <LineString id="98">
                 <altitudeMode>relativeToGround</altitudeMode>
-                <coordinates>-121.125643,38.662463,0 -121.12635083149996,38.66249933683041,44.013210072696296</coordinates>
+                <coordinates>-121.125643,38.662463,0 -121.12598825300242,38.66322939913489,2.062347920572721</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="283">
+        <Placemark id="106">
             <name>Vector 2</name>
-            <TimeSpan id="288">
-                <begin>2024-09-20T01:17:58.839086Z</begin>
-                <end>2024-09-20T01:18:08.839086Z</end>
+            <TimeSpan id="111">
+                <begin>2024-09-24T03:36:13.987493Z</begin>
+                <end>2024-09-24T03:36:23.987493Z</end>
             </TimeSpan>
-            <styleUrl>#284</styleUrl>
-            <LineString id="282">
+            <styleUrl>#107</styleUrl>
+            <LineString id="105">
                 <altitudeMode>relativeToGround</altitudeMode>
-                <coordinates>-121.12635083149996,38.66249933683041,44.013210072696296 -121.12523215616912,38.66312118440793,62.66993707116251</coordinates>
+                <coordinates>-121.12598825300242,38.66322939913489,2.062347920572721 -121.12507222673415,38.66351161871515,42.32873458817981</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="290">
+        <Placemark id="113">
             <name>Vector 3</name>
-            <TimeSpan id="295">
-                <begin>2024-09-20T01:17:58.839086Z</begin>
-                <end>2024-09-20T01:18:08.839086Z</end>
+            <TimeSpan id="118">
+                <begin>2024-09-24T03:36:13.987493Z</begin>
+                <end>2024-09-24T03:36:23.987493Z</end>
             </TimeSpan>
-            <styleUrl>#291</styleUrl>
-            <LineString id="289">
+            <styleUrl>#114</styleUrl>
+            <LineString id="112">
                 <altitudeMode>relativeToGround</altitudeMode>
-                <coordinates>-121.12523215616912,38.66312118440793,62.66993707116251 -121.12632872007342,38.662594807502856,80.60190922111778</coordinates>
+                <coordinates>-121.12507222673415,38.66351161871515,42.32873458817981 -121.12493938755031,38.66322562100163,44.420151644779615</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="297">
+        <Placemark id="120">
             <name>Vector 4</name>
-            <TimeSpan id="302">
-                <begin>2024-09-20T01:17:58.839086Z</begin>
-                <end>2024-09-20T01:18:08.839086Z</end>
+            <TimeSpan id="125">
+                <begin>2024-09-24T03:36:13.987493Z</begin>
+                <end>2024-09-24T03:36:23.987493Z</end>
             </TimeSpan>
-            <styleUrl>#298</styleUrl>
-            <LineString id="296">
+            <styleUrl>#121</styleUrl>
+            <LineString id="119">
                 <altitudeMode>relativeToGround</altitudeMode>
-                <coordinates>-121.12632872007342,38.662594807502856,80.60190922111778 -121.1274174384871,38.661771755067186,102.42279693213102</coordinates>
+                <coordinates>-121.12493938755031,38.66322562100163,44.420151644779615 -121.12527914892046,38.663788843248135,87.48215929176422</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="304">
+        <Placemark id="127">
             <name>Vector 5</name>
-            <TimeSpan id="309">
-                <begin>2024-09-20T01:17:58.839086Z</begin>
-                <end>2024-09-20T01:18:08.839086Z</end>
+            <TimeSpan id="132">
+                <begin>2024-09-24T03:36:13.987493Z</begin>
+                <end>2024-09-24T03:36:23.987493Z</end>
             </TimeSpan>
-            <styleUrl>#305</styleUrl>
-            <LineString id="303">
+            <styleUrl>#128</styleUrl>
+            <LineString id="126">
                 <altitudeMode>relativeToGround</altitudeMode>
-                <coordinates>-121.1274174384871,38.661771755067186,102.42279693213102 -121.12720258429526,38.661159452032834,138.9580433738457</coordinates>
+                <coordinates>-121.12527914892046,38.663788843248135,87.48215929176422 -121.12557367001939,38.66376540652898,106.2310337828413</coordinates>
             </LineString>
         </Placemark>
     </Document>
